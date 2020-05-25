@@ -4,9 +4,6 @@
   <remote name="github"
           fetch=".." />
 
-  <remote name="gitlab"
-          fetch="https://gitlab.com" />
-
   <remote name="havoc"
           fetch="https://github.com/Havoc-OS"
           revision="ten" />
